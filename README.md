@@ -12,6 +12,7 @@ git push -f github master
 ```
 <h1 align='center'>Les explication</h1>
 Les explication présises.
+
 ## 1. On lance git bash du dossier:
 
 ```
