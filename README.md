@@ -43,7 +43,12 @@ git add Clustering/
 
 ![](https://i.imgur.com/4seGF0r.png)
 
-## Voilà toutes les commandes remplies :
+<hr>
+<hr>
+<hr>
+<hr>
+
+# Voilà toutes les commandes remplies.
 
 ```
 git status
@@ -58,8 +63,12 @@ git push -f github master
 
 ![](https://i.imgur.com/X9KTlCB.png)
 
+<hr>
+<hr>
+<hr>
+<hr>
 
-## Conclusion.
+# Conclusion.
 La cours version, si vous êtes sûr avec remote github :
 ```
 git status
