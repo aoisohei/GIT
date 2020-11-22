@@ -11,7 +11,7 @@ git commit -m "or01"
 git push -f github master
 ```
 <h1 align='center'>Les explication</h1>
-
+Les explication présises.
 ## 1. On lance git bash du dossier:
 
 ```
@@ -42,7 +42,7 @@ git add Clustering/
 
 ![](https://i.imgur.com/4seGF0r.png)
 
-## 3. Voilà toutes les commandes remplies :
+## Voilà toutes les commandes remplies :
 
 ```
 git status
